@@ -1,0 +1,49 @@
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 2em 1em;
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2, h3 {
+    color: #2c3e50;
+}
+
+/* List styling */
+ul {
+    list-style-type: square;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    background-color: #eaeaea;
+    padding: 1em;
+    margin-top: 20px;
+}
+
+a {
+    color: #4a90e2;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
